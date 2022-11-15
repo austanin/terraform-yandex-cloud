@@ -1,0 +1,10 @@
+############################################################################
+
+This Terraform manifest initiates simple cloud infra in a yandex cloud.
+This will create:
+1. VPC
+2. Egress gateway (with a NAT into web)
+3. Route table
+4. Several subnets
+
+###########################################################################
